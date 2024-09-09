@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/voice-recorder/static/css/main.cee4fed8.css",
-    "main.js": "/voice-recorder/static/js/main.dbb0149a.js",
+    "main.css": "/voice-recorder/static/css/main.cded1a30.css",
+    "main.js": "/voice-recorder/static/js/main.de42839a.js",
     "static/js/453.1d117552.chunk.js": "/voice-recorder/static/js/453.1d117552.chunk.js",
     "index.html": "/voice-recorder/index.html",
-    "main.cee4fed8.css.map": "/voice-recorder/static/css/main.cee4fed8.css.map",
-    "main.dbb0149a.js.map": "/voice-recorder/static/js/main.dbb0149a.js.map",
+    "main.cded1a30.css.map": "/voice-recorder/static/css/main.cded1a30.css.map",
+    "main.de42839a.js.map": "/voice-recorder/static/js/main.de42839a.js.map",
     "453.1d117552.chunk.js.map": "/voice-recorder/static/js/453.1d117552.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cee4fed8.css",
-    "static/js/main.dbb0149a.js"
+    "static/css/main.cded1a30.css",
+    "static/js/main.de42839a.js"
   ]
 }
